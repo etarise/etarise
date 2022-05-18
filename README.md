@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @etarise
-- 👀 I’m interested in ...computer programming
+- 👀 I’m interested in ...computer programing
 - 🌱 I’m currently learning ...javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...etarise@gmail.com
