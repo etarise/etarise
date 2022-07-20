@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @etarise
-- 👀 I’m interested in ...computer programing
-- 🌱 I’m currently learning ...javascript
+- 👀 I’m interested in ...computer programing(.NET ASP.NET ,ASP.NET CORE
+- 🌱 I’m currently learning ...javascript,jquery
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...etarise@gmail.com
 
